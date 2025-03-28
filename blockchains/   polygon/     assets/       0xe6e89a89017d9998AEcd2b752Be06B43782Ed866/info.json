@@ -1,1 +1,12 @@
-
+{
+  "name": "Sloth Economy",
+  "type": "ERC20",
+  "symbol": "SLE",
+  "decimals": 18,
+  "description": "Sloth Economy is a gaming token designed for an economic game with staking and referral systems.",
+  "website": "https://yourwebsite.com", // Укажите сайт вашего проекта
+  "explorer": "https://polygonscan.com/token/0xe6e89a89017d9998AEcd2b752Be06B43782Ed866", // Ссылка на Polygonscan
+  "status": "active",
+  "id": "0xe6e89a89017d9998AEcd2b752Be06B43782Ed866",
+  "logo": "https://green-capable-flyingfish-582.mypinata.cloud/ipfs/bafybeidv7nza7oerrs73f2xwuw7e7an7yja6eiy5et3m7xgci25ascpjca"
+}
